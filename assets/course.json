@@ -1,0 +1,11 @@
+{
+  "course": "CSE 310",
+  "categories": [
+    {"name": "Homework", "weight": 30,
+     "graded": [[90, 100], [80, 100], [95, 100]],
+     "upcoming": [{"name": "HW 4", "possible": 100}, {"name": "HW 5", "possible": 100}]},
+    {"name": "Midterm", "weight": 30, "graded": [[72, 100]], "upcoming": []},
+    {"name": "Final", "weight": 40, "graded": [],
+     "upcoming": [{"name": "Final", "possible": 100}]}
+  ]
+}

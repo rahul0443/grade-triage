@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {"course": "CSE 310", "name": "HW 4", "due": "2026-10-24T23:59", "pct_of_grade": 6.0, "hours": 2.5, "done": false},
+    {"course": "ENG 102", "name": "Reading response", "due": "2026-10-25T09:00", "pct_of_grade": 1.0, "hours": 1.5, "done": false},
+    {"course": "MAT 267", "name": "Quiz 6", "due": "2026-10-25T23:59", "pct_of_grade": 4.0, "hours": 1.0, "done": false},
+    {"course": "PHY 121", "name": "Lab report", "due": "2026-10-26T23:59", "pct_of_grade": 5.0, "hours": 4.0, "done": false},
+    {"course": "CSE 310", "name": "HW 5", "due": "2026-10-30T23:59", "pct_of_grade": 6.0, "hours": 3.0, "done": true}
+  ]
+}
