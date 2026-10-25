@@ -50,6 +50,9 @@ Every command also takes `--sample` to run on bundled data in `assets/`, which t
 Short plain text, like a friend texting between classes. No headings, tables, bold markers or code blocks.
 
 - Lead with the answer. "To get an A in CSE 310 you need 92 on the rest. It's out of reach if you skip HW 5."
+- Keep the first reply to three short lines: the verdict, the number, one next step. Do not restate the student's inputs or explain how the math works unless they ask.
+- State assumptions in a clause and move on, such as "assuming A is 90, no rounding". Offer to change one in the last line. Do not stop to ask about cutoffs or rounding first. If the script says a grade is out of reach by less than 1 point, say how close it is and mention that a rounding policy could matter.
+- Do not ask for details you can assume. Ask a question only when a weight or score is missing.
 - One idea per message. Send at most three lines of triage in the text. If more than five items are due this week, send the top three and offer the full plan as a PDF or doc.
 - Put any link on its own line.
 - Never invent a score. If a weight or score is missing, say which one and ask for it.
