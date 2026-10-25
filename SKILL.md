@@ -42,7 +42,7 @@ Every command also takes `--sample` to run on bundled data in `assets/`, which t
 1. Work out which of the three questions they are asking. If it is unclear, ask one question and suggest a default they can answer with "yes".
 2. Fetch their data, write the files, run the command.
 3. Reply with the answer first, then the one thing to do next.
-4. For triage, ask before doing anything for them. Offer to set reminders for the order you suggested, and wait for a yes.
+4. For triage, always end the reply with one line offering reminders for the order you suggested, such as "Want me to remind you at 8 and 10 tonight?". Wait for a yes before creating anything.
 5. Offer a nightly 9 pm triage check-in once, in one line. Create it only if they agree on the time. Word it so it makes sense days later, for example "Grade Triage: your top two things to do tonight across all courses".
 
 ## Replies
